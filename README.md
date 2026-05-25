@@ -1,28 +1,28 @@
 # 🔐 Password Tool
 
-[span_0](start_span)A Python command-line utility designed to generate secure random passwords and evaluate the strength of existing ones[span_0](end_span).
+**- A Python command-line utility designed to generate secure random passwords and evaluate the strength of existing ones**.
 
 ## ✨ Features
 
 **🔑 Password Generation**
-* [span_1](start_span)Generates a random password that includes uppercase letters, lowercase letters, digits, and special characters[span_1](end_span).
-* [span_2](start_span)Enforces a minimum length of 4 to ensure all character types are included[span_2](end_span).
-* [span_3](start_span)Generates passwords with a default length of 8 characters via the interactive menu[span_3](end_span).
+* Generates a random password that includes uppercase letters, lowercase letters, digits, and special characters.
+* Enforces a minimum length of 4 to ensure all character types are included.
+* Generates passwords with a default length of 8 characters via the interactive menu.
 
 **💪 Password Strength Checker**
-* [span_4](start_span)Evaluates password strength based on length and character variety[span_4](end_span).
-* [span_5](start_span)Checks for the presence of a length greater than or equal to 8, lowercase letters, uppercase letters, digits, and punctuation[span_5](end_span).
-* [span_6](start_span)Categorizes the evaluated password as "Weak", "Moderate", or "Strong" based on a calculated score[span_6](end_span).
+* Evaluates password strength based on length and character variety.
+* Checks for the presence of a length greater than or equal to 8, lowercase letters, uppercase letters, digits, and punctuation.
+* Categorizes the evaluated password as "Weak", "Moderate", or "Strong" based on a calculated score.
 
 **🖥️ Interactive Menu**
-* [span_7](start_span)Provides a simple text-based menu to easily choose between generating a password, checking a password's strength, or exiting the tool[span_7](end_span).
+* Provides a simple text-based menu to easily choose between generating a password, checking a password's strength, or exiting the tool.
 
 ---
 
 ## 🛠️ Technologies Used
 
 * 🐍 **Python 3**
-* [span_8](start_span)Built-in `random` and `string` modules (No external dependencies required)[span_8](end_span).
+* Built-in `random` and `string` modules (No external dependencies required).
 
 ---
 
